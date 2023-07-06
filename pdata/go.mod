@@ -1,4 +1,4 @@
-module go.opentelemetry.io/collector/pdata
+module github.com/sixther-dc/opentelemetry-collector/pdata
 
 go 1.19
 
